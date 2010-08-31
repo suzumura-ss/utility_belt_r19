@@ -1,0 +1,12 @@
+== utility_belt patch for ruby 1.9
+
+=== Usage
+In ~/.irbrc,
+---
+require 'utility_belt_r19'
+---
+
+
+=== History
+0.0.1: First version.
+	work with utility_belt-1.1.0.
